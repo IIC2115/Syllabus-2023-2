@@ -116,5 +116,5 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 * [Syllabus 2021-1](https://github.com/IIC2115/Syllabus-2021-1)
 * [Syllabus 2021-2](https://github.com/IIC2115/Syllabus-2021-2)
 * [Syllabus 2022-1](https://github.com/IIC2115/Syllabus-2022-1)
-* [Syllabus 2022-1](https://github.com/IIC2115/Syllabus-2022-2)
-* [Syllabus 2022-1](https://github.com/IIC2115/Syllabus-2023-1)
+* [Syllabus 2022-2](https://github.com/IIC2115/Syllabus-2022-2)
+* [Syllabus 2023-1](https://github.com/IIC2115/Syllabus-2023-1)
