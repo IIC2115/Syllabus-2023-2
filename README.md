@@ -29,7 +29,7 @@
 
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
-| Cátedra           | Introducción         | Jueves 10/08  | Slides - [Materia](Material%20de%20clases/Capítulo%201/) - Ejercicio - Ticket|
+| Cátedra           | Introducción         | Jueves 10/08  | Slides - [Materia](Material%20de%20clases/Capítulo%201/) - E1 - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6)|
 </details>
 <!--
 | Ayudantía parte a | POO                  | Jueves 17/03  | [Slides](../../blob/master/Ayudantías/C1a/Ayudantía%20C1a.pdf) - [Código](../../tree/master/Ayudantías/C1a)| 
