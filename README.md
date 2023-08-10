@@ -11,13 +11,13 @@
 
 1. Las evaluaciones serán efectuadas por medio de Actividades y Tareas. Se calculará la nota del curso **N** como:
 
-    **N = 0,5 x A + 0,5 x T**
+    **N = 0,5 x A + 0,5 x T + B**
 
-    Donde **A** el promedio de las 5 mejores actividades y **T** el promedio de las tareas.
+    Donde **A** el promedio de las 5 mejores actividades, **T** el promedio de las tareas y **B** es un bono de 2 décimas que se puede obtener si se contestan todos los _tickets de salida_ durante el semestre.
 
 1.  Adicionalmente, para aprobar el curso, se debe cumplir con:
-    - **A** debe ser mayor o igual a 3.95
-    - **T** debe ser mayor o igual a 3.95
+    - **A** debe ser mayor o igual a 3,95
+    - **T** debe ser mayor o igual a 3,95
       
 1. Si se cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = N**. En caso contrario, **NF = min(3,9; N)**
 1. La no entrega de alguna de las evaluaciones se evalúa con nota 1.0.
