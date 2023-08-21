@@ -1,0 +1,296 @@
+{
+"16446564-2": {
+  "nombre": "Daniel",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"14543256-k": {
+  "nombre": "Maria",
+  "apellido": "Magga",
+  "sexo": "f",
+  "rut padre": null,
+  "rut madre": null
+},
+"12928618-1": {
+  "nombre": "Justin",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": "16446564-2",
+  "rut madre": "14543256-k"
+},
+"16346436-7":{
+  "nombre": "Manuela",
+  "apellido": "Vincenzi",
+  "sexo": "f",
+  "rut padre": null,
+  "rut madre": null
+},
+"14259082-8": {
+  "nombre": "Rhonda",
+  "apellido": "Carrillo",
+  "sexo": "f",
+  "rut padre": "16446564-2",
+  "rut madre": "14543256-k"
+},
+"15234674-7": {
+  "nombre": "Roberto",
+  "apellido": "Tapia",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"11514289-4": {
+  "nombre": "Jessica",
+  "apellido": "Carrillo",
+  "sexo": "f",
+  "rut padre": "16446564-2",
+  "rut madre": "14543256-k"
+},
+"12646363-3": {
+  "nombre": "April",
+  "apellido": "Carrillo",
+  "sexo": "f",
+  "rut padre": "12928618-1",
+  "rut madre": "16346436-7"
+},
+"13714991-8": {
+  "nombre": "James",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": "12928618-1",
+  "rut madre": "16346436-7"
+},
+"19030373-5": {
+  "nombre": "Jose",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": "12928618-1",
+  "rut madre": "16346436-7"
+},
+"18369675-7": {
+  "nombre": "Steven",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": "12928618-1",
+  "rut madre": "16346436-7"
+},
+"16302658-9": {
+  "nombre": "Jon",
+  "apellido": "Carrillo",
+  "sexo": "m",
+  "rut padre": "15234674-7",
+  "rut madre": "14259082-8"
+},
+"17223204-7": {
+  "nombre": "Leslie",
+  "apellido": "Carrillo",
+  "sexo": "f",
+  "rut padre": "15234674-7",
+  "rut madre": "14259082-8"
+},
+"10999825-7": {
+  "nombre": "Elizabeth",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": null,
+  "rut madre": null
+},
+"8423234-5": {
+  "nombre": "Hernan",
+  "apellido": "Valdivieso",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"20145573-4": {
+  "nombre": "Deanna",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "8423234-5",
+  "rut madre": "10999825-7"
+},
+"19548678-8": {
+  "nombre": "Bastian",
+  "apellido": "Mavrakis",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"5820004-2": {
+  "nombre": "Crystal",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "8423234-5",
+  "rut madre": "10999825-7"
+},
+"6784885-3": {
+  "nombre": "Hugo",
+  "apellido": "Navarrete",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"9269987-7": {
+  "nombre": "Ashley",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "6784885-3",
+  "rut madre": "5820004-2"
+},
+"20125287-k": {
+  "nombre": "Dawn",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "6784885-3",
+  "rut madre": "5820004-2"
+},
+"20456493-1": {
+  "nombre": "Angela",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "19548678-8",
+  "rut madre": "20145573-4"
+},
+"15248815-6": {
+  "nombre": "Joshua",
+  "apellido": "Gonzalez",
+  "sexo": "m",
+  "rut padre": "19548678-8",
+  "rut madre": "20145573-4"
+},
+"14788592-6": {
+  "nombre": "Daniela",
+  "apellido": "Flores",
+  "sexo": "f",
+  "rut padre": null,
+  "rut madre": null
+},
+"15828012-1": {
+  "nombre": "Wendy",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "15248815-6",
+  "rut madre": "14788592-6"
+},
+"17858312-3": {
+  "nombre": "Felipe",
+  "apellido": "Gomez",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"16059840-k": {
+  "nombre": "Lisa",
+  "apellido": "Gonzalez",
+  "sexo": "f",
+  "rut padre": "17858312-3",
+  "rut madre": "15828012-1"
+},
+"17049740-k": {
+  "nombre": "Felipe",
+  "apellido": "Quinteros",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"14636377-2": {
+  "nombre": "Jared",
+  "apellido": "Gonzalez",
+  "sexo": "m",
+  "rut padre": "17049740-k",
+  "rut madre": "16059840-k"
+},
+"12138890-7": {
+  "nombre": "Duane",
+  "apellido": "Thompson",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"11138890-7": {
+  "nombre": "Cote",
+  "apellido": "Hidalgo",
+  "sexo": "f",
+  "rut padre": null,
+  "rut madre": null
+},
+"16107137-4": {
+  "nombre": "Heather",
+  "apellido": "Thompson",
+  "sexo": "f",
+  "rut padre": "12138890-7",
+  "rut madre": "11138890-7"
+},
+"20289115-5": {
+  "nombre": "Crystal",
+  "apellido": "Thompson",
+  "sexo": "f",
+  "rut padre": "12138890-7",
+  "rut madre": "11138890-7"
+},
+"18677340-k": {
+  "nombre": "Mark",
+  "apellido": "Thompson",
+  "sexo": "m",
+  "rut padre": "12138890-7",
+  "rut madre": "11138890-7"
+},
+"19865795-1": {
+  "nombre": "David",
+  "apellido": "Thompson",
+  "sexo": "m",
+  "rut padre": "12138890-7",
+  "rut madre": "11138890-7"
+},
+"19423397-2": {
+  "nombre": "Cheryl",
+  "apellido": "Thompson",
+  "sexo": "f",
+  "rut padre": "12138890-7",
+  "rut madre": "11138890-7"
+},
+"17423397-2": {
+  "nombre": "Mirko",
+  "apellido": "Jozic",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"14111064-4": {
+  "nombre": "Laura",
+  "apellido": "Thompson",
+  "sexo": "f",
+  "rut padre": "17423397-2",
+  "rut madre": "19423397-2"
+},
+"7299255-4": {
+  "nombre": "Cheryl",
+  "apellido": "Thompson",
+  "sexo": "f",
+  "rut padre": "17423397-2",
+  "rut madre": "19423397-2"
+},
+"8899646-4": {
+  "nombre": "Francisco",
+  "apellido": "Garrido",
+  "sexo": "m",
+  "rut padre": null,
+  "rut madre": null
+},
+"12899646-4": {
+  "nombre": "Eric",
+  "apellido": "Thompson",
+  "sexo": "m",
+  "rut padre": "17423397-2",
+  "rut madre": "19423397-2"
+},
+"8350373-3": {
+  "nombre": "Jason",
+  "apellido": "Thompson",
+  "sexo": "m",
+  "rut padre": "8899646-4",
+  "rut madre": "7299255-4"
+}
+}
