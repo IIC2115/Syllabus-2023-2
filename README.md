@@ -30,7 +30,8 @@
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
 | Cátedra           | Introducción         | Jueves 10/08  | [Slides](Material%20de%20clases/Introducción.pdf) - [Materia](Material%20de%20clases/Capítulo%201/) - [E1](Material%20de%20clases/Capítulo%201/Ejercicios/C1E1.pdf) - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6) - [E2](Material%20de%20clases/Capítulo%201/Ejercicios/C1E2.pdf)|
-| Ayudantía         | POO y EDD            | Jueves 17/08  | Slides - Código | 
+| Ayudantía         | POO y EDD            | Jueves 17/08  | [Código](Ayudantías/Ayudantía%201) | 
+| Actividad 1       | POO y EDD            | Lunes 21/08  | Enunciado | 
 </details>
 <!--
 | Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
