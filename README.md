@@ -27,25 +27,21 @@
 <details open>
 <summary>Capítulo 1</summary>
 
-| Instancia         | Tópico               | Fecha        | Recursos |
-| :-:               | :-:                  | :-:          | :-:      |
-| Cátedra           | Introducción         | Jueves 10/08  | [Slides](Material%20de%20clases/Introducción.pdf) - [Materia](Material%20de%20clases/Capítulo%201/) - [E1](Material%20de%20clases/Capítulo%201/Ejercicios/C1E1.pdf) - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6) - [E2](Material%20de%20clases/Capítulo%201/Ejercicios/C1E2.pdf)|
-| Ayudantía         | POO y EDD            | Jueves 17/08  | [Código](Ayudantías/Ayudantía%201) | 
-| Actividad 1       | POO y EDD            | Lunes 21/08  | Enunciado | 
-</details>
-<!--
-| Cátedra parte b   | Estructuras de datos |Lunes 21/03  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%201/Parte%20b/Ejercicios/C1b.pdf) - [Ticket](https://forms.gle/bTEmwyGd44KTqvtPA) |
-| Ayudantía parte b | Estructuras de datos | Jueves 24/03  | [Slides](../../blob/master/Ayudantías/C1b/Ayudantía%20C1b.pdf) - [Código](../../tree/master/Ayudantías/C1b) | 
-| Laboratorio 1     |                      | Lunes 28/03 a lunes 04/04 | [Enunciado](../../blob/master/Laboratorios/L1/L1.pdf) - [Ticket](https://forms.gle/f8s6WYDAni8Pp4B28) - [Solución](../../blob/master/Pautas/L1/Pauta%20L1.ipynb)|
+| Instancia   | Tópico               | Fecha        | Recursos |
+| :-:         | :-:                  | :-:          | :-:      |
+| Cátedra     | Introducción         | Jueves 10/08  | [Materia](Material%20de%20clases/Capítulo%201/) - [E1](Material%20de%20clases/Capítulo%201/Ejercicios/C1E1.pdf) - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6) - [E2](Material%20de%20clases/Capítulo%201/Ejercicios/C1E2.pdf)|
+| Ayudantía   | POO y EDD            | Jueves 17/08  | [Código](Ayudantías/Ayudantía%201) | 
+| Actividad 1 | POO y EDD            | Lunes 21/08  | [Enunciado](../../blob/main/Actividades/A1/A1.pdf) | 
 </details>
 
-<!--
-<details>
+<details open>
 <summary>Capítulo 2</summary>
    
-| Instancia         | Tópico                            | Fecha        | Recursos |
-| :-:               | :-:                               | :-:          | :-:      |
-| Cátedra parte a   | Análisis y visualización de datos | Lunes 11/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Ejemplos](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.ipynb) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20a) - [Ejercicio](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20a/Ejercicios/C2a.pdf) - [Ticket](https://forms.gle/oajcd1VoZsEEyYbv5) |
+| Instancia   | Tópico                            | Fecha        | Recursos |
+| :-:         | :-:                               | :-:          | :-:      |
+| Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - E1 - Ticket |
+</details>
+<!--
 | Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
 | Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - [Ejercicio](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b/Ejercicios/C2b.pdf) - [Ticket](https://forms.gle/mRfY2QitYiKLG7v17) |
 | Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | [Slides](../../blob/master/Ayudantías/C2b/Ayudantía%20C2b.pdf) - [Código](../../tree/master/Ayudantías/C2b) | 
