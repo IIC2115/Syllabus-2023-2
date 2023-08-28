@@ -39,7 +39,7 @@
    
 | Instancia   | Tópico                            | Fecha        | Recursos |
 | :-:         | :-:                               | :-:          | :-:      |
-| Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - E1 - Ticket |
+| Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - E1 - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
 </details>
 <!--
 | Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
