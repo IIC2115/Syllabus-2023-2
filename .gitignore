@@ -1,9 +1,4 @@
-# Databases
-*.pd
-*.csv
-*.xls
-*.xlsx
-*.txt
+
 
 # Anti OS Trash
 .DS_Store
