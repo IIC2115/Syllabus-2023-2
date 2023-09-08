@@ -24,13 +24,13 @@
 
 ## Calendario 
 
-<details open>
+<details>
 <summary>Capítulo 1</summary>
 
 | Instancia   | Tópico               | Fecha        | Recursos |
 | :-:         | :-:                  | :-:          | :-:      |
-| Cátedra     | Introducción         | Jueves 10/08  | [Materia](Material%20de%20clases/Capítulo%201/) - [E1](Material%20de%20clases/Capítulo%201/Ejercicios/C1E1.pdf) - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6) - [E2](Material%20de%20clases/Capítulo%201/Ejercicios/C1E2.pdf)|
-| Ayudantía   | POO y EDD            | Jueves 17/08  | [Código](Ayudantías/Ayudantía%201) | 
+| Cátedra     | Introducción         | Jueves 10/08 | [Materia](Material%20de%20clases/Capítulo%201/) - [C1E1](Material%20de%20clases/Capítulo%201/Ejercicios/C1E1.pdf) - [Ticket E1](https://forms.gle/MpdoGa4Vzx7QcXRb6) - [E2](Material%20de%20clases/Capítulo%201/Ejercicios/C1E2.pdf)|
+| Ayudantía   | Resolución C1E1      | Jueves 17/08 | [Código](Ayudantías/Ayudantía%201) | 
 | Actividad 1 | POO y EDD            | Lunes 21/08  | [Enunciado](../../blob/main/Actividades/A1/A1.pdf) | 
 </details>
 
@@ -39,29 +39,28 @@
    
 | Instancia   | Tópico                            | Fecha        | Recursos |
 | :-:         | :-:                               | :-:          | :-:      |
-| Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - E1 - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
-</details>
-<!--
-| Ayudantía parte a | Análisis y visualización de datos | -            | Slides - Código| 
-| Cátedra parte b   | Modelos predictivos               | Lunes 18/04  | [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Material](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b) - [Ejercicio](../../tree/master/Material%20de%20clases/Capítulo%202/Parte%20b/Ejercicios/C2b.pdf) - [Ticket](https://forms.gle/mRfY2QitYiKLG7v17) |
-| Ayudantía parte b | Modelos predictivos               | Jueves 21/04 | [Slides](../../blob/master/Ayudantías/C2b/Ayudantía%20C2b.pdf) - [Código](../../tree/master/Ayudantías/C2b) | 
-| Laboratorio 2     |                                   | Lunes 25/04 a lunes 02/05 | [Enunciado](Laboratorios/L2/L2.pdf)|
+| Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - [C2E1](Material%20de%20clases/Capítulo%202/Ejercicios/C2E1.pdf) - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
+| Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](../../blob/main/Ayudantías/Ayudantía%202/solucion_C2E1.ipynb)| 
+| Actividad 2 | Análisis y visualización de datos | Lunes 04/09  | [Enunciado](Actividades/A2/A2.pdf)|
+| Ayusantía   | Resolución A2                     | -            | Video|
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 3</summary>
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra parte a   | Datos geoespaciales y SIG | Lunes 09/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20a/Notebooks/01%20-%20SIG.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20a/Ejemplos/ejemplos_C3a.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20a/Ejercicios/C3a.pdf) - [Ticket](https://forms.gle/eSPbZUJoQZwdogj9A) |
+| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - C3E1 - Ticket |
+</details>
+<!--
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
 | Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
 | Laboratorio 3     |                           | Lunes 23/05 a jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4</summary>
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
