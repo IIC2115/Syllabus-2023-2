@@ -42,7 +42,7 @@
 | Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - [C2E1](Material%20de%20clases/Capítulo%202/Ejercicios/C2E1.pdf) - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
 | Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](../../blob/main/Ayudantías/Ayudantía%202/solucion_C2E1.ipynb)| 
 | Actividad 2 | Análisis y visualización de datos | Lunes 04/09  | [Enunciado](Actividades/A2/A2.pdf)|
-| Ayudantía   | Resolución A2                     | -            | Video|
+| Ayudantía   | Resolución A2                     | -            | Video |
 </details>
 
 
@@ -51,7 +51,7 @@
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - C3E1 - Ticket |
+| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [C3E1](../../blob/main/Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket](https://forms.gle/hwrAwnaNHpgoYNjZA) |
 </details>
 <!--
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
