@@ -51,7 +51,7 @@
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [C3E1](../../blob/main/Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket](https://forms.gle/hwrAwnaNHpgoYNjZA) |
+| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [Video](https://youtu.be/zIUImWJJ4zk) - [C3E1](../../blob/main/Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket](https://forms.gle/hwrAwnaNHpgoYNjZA) |
 </details>
 <!--
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
