@@ -34,13 +34,13 @@
 | Actividad 1 | POO y EDD            | Lunes 21/08  | [Enunciado](../../blob/main/Actividades/A1/A1.pdf) | 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2</summary>
    
 | Instancia   | Tópico                            | Fecha        | Recursos |
 | :-:         | :-:                               | :-:          | :-:      |
 | Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - [C2E1](Material%20de%20clases/Capítulo%202/Ejercicios/C2E1.pdf) - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
-| Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](../../blob/main/Ayudantías/Ayudantía%202/solucion_C2E1.ipynb)| 
+| Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](../../blob/main/Ayudantías/Ayudantía%202/solucion_C2E1.ipynb) | 
 | Actividad 2 | Análisis y visualización de datos | Lunes 04/09  | [Enunciado](Actividades/A2/A2.pdf)|
 | Ayudantía   | Resolución A2                     | -            | Video |
 </details>
@@ -51,7 +51,12 @@
    
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
-| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [Video](https://youtu.be/zIUImWJJ4zk) - [C3E1](../../blob/main/Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket C3E1](https://forms.gle/hwrAwnaNHpgoYNjZA) - [C3E2](../../blob/main/Material%20de%20clases/Capítulo%203/Ejercicios/C3E2.pdf) - [Ticket C3E2](https://forms.gle/7pTHZ9LuWyD36wt49)
+| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [Video](https://youtu.be/zIUImWJJ4zk) - [C3E1](Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket C3E1](https://forms.gle/hwrAwnaNHpgoYNjZA)
+| Ayudantía         | Resolución C3E1           | Jueves 14/09 | [Slides](Ayudantías/Ayudantía%204/Ayudantía%203.pdf) - [Código](Ayudantías/Ayudantía%202/solucion_C2E1.ipynb) |
+| No cátedra        | Modelos predictivos       | -            | [C3E2](Material%20de%20clases/Capítulo%203/Ejercicios/C3E2.pdf) - [Ticket C3E2](https://forms.gle/7pTHZ9LuWyD36wt49)
+| Ayudantía         | Resolución C3E2           | Jueves 21/09 | Slides - Código |
+
+
 </details>
 <!--
 | Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
