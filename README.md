@@ -64,7 +64,9 @@
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
 | Laboratorio 3     |                           | Lunes 23/05 a jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
 </details>
+-->
 
+<!--
 <details>
 <summary>Capítulo 4</summary>
    
@@ -76,28 +78,27 @@
 | Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | [Slides](Ayudantías/C4b/Ayudantia%20C4b.pdf) - [Código](Ayudantías/C4b/Solución%20C4b.ipynb) | 
 | Laboratorio 4     |                        | Lunes 20/06 a domingo 03/07 | [Enunciado](Laboratorios/L4/L4.pdf) |
 </details>
-
 -->
+
+## Tareas
+ 
+| Tarea   |	Tópicos                                 | Fecha Entrega | Recursos |
+| :-:     | :-:                                     | :-:           | :-:      |
+| Tarea 1 | Análisis de datos y modelos predictivos | Domingo 15/08 | [Enunciado](Tareas/T1/T1.pdf)|
 
 ## Notas
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
 
-<!--
-## Entregas atrasadas de laboratorios
-Tienen hasta 12 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LX correspondiente) dentro del plazo de entrega.
 
+## Recorrecciones
 
-## Recorrección
-
-Si quiere recorregir, contará con una semana desde que se publica el feedback en su repositorio (a menos que se avise otro plazo de forma oficial), es decir, si el feedback se publica un lunes (entre las 0:00 y 23:59) tendrá plazo hasta el próximo lunes a las 23:59.
-* Solo puede mandar a recorregir por [este formulario](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg).
-* No se aceptarán correos para solicitar recorrección ni solicitudes fuera de plazo.
+* El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
+* Solo puede solicitar la recorrección a través de [este formulario](https://forms.gle/Wm11nFnmFefNDe4W6).
+* No se aceptarán correos para solicitar recorrección, ni solicitudes fuera de plazo.
 * Sea explícito en lo que desea recorregir, brindando los argumentos correspondientes. Solicitudes del tipo "Revisar todo nuevamente", o "Debiera tener mayor puntaje" no serán consideradas.
 * Tenga en cuenta que al recorregir su nota puede subir, bajar o mantenerse.
 * El profesor/ayudante que revise su solicitud tiene la facultad de modificar puntaje en apartados no solicitados por el alumno. 
-* La calificación obtenida luego de la recorrección no es apelable, la nota se actualizará en la planilla oficial y se publicará otro feedback respecto a la recorrección en las issues de su repositorio privado.
 
--->
 ## Contacto
 
 El correo del curso es: iic2115@ing.puc.cl. Aquí pueden enviar sus inquietudes sobre el desarrollo del curso. <!--Solicitudes de recorrección pedidas a través de este medio no serán consideradas.-->
