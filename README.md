@@ -40,21 +40,21 @@
 | Instancia   | Tópico                            | Fecha        | Recursos |
 | :-:         | :-:                               | :-:          | :-:      |
 | Cátedra     | Análisis y visualización de datos | Lunes 28/08  | [Materia](Material%20de%20clases/Capítulo%202) - [C2E1](Material%20de%20clases/Capítulo%202/Ejercicios/C2E1.pdf) - [Ticket](https://forms.gle/cYB8ut3N5EkVTSjZ9) |
-| Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](../../blob/main/Ayudantías/Ayudantía%202/solucion_C2E1.ipynb) | 
+| Ayudantía   | Resolución C2E1                   | Jueves 31/09 | [Slides](Ayudantías/Ayudantía%202/Ayudantía%202.pdf) - [Código](Ayudantías/Ayudantía%202/solucion_C2E1.ipynb) | 
 | Actividad 2 | Análisis y visualización de datos | Lunes 04/09  | [Enunciado](Actividades/A2/A2.pdf)|
-| Ayudantía   | Resolución A2                     | -            | Video |
+| Ayudantía   | Resolución A2                     | -            | [Video](https://youtu.be/DhNX1YMRLUY) - [Código](Ayudantías/Ayudantía%203/solución_A2.ipynb) |
 </details>
-
 
 <details open>
 <summary>Capítulo 3</summary>
    
-| Instancia         | Tópico                    | Fecha        | Recursos |
-| :-:               | :-:                       | :-:          | :-:      |
-| Cátedra           | Modelos predictivos       | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [Video](https://youtu.be/zIUImWJJ4zk) - [C3E1](Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket C3E1](https://forms.gle/hwrAwnaNHpgoYNjZA)
-| Ayudantía         | Resolución C3E1           | Jueves 14/09 | [Slides](Ayudantías/Ayudantía%204/Ayudantía%203.pdf) - [Código](Ayudantías/Ayudantía%202/solucion_C2E1.ipynb) |
-| No cátedra        | Modelos predictivos       | -            | [C3E2](Material%20de%20clases/Capítulo%203/Ejercicios/C3E2.pdf) - [Ticket C3E2](https://forms.gle/7pTHZ9LuWyD36wt49)
-| Ayudantía         | Resolución C3E2           | Jueves 21/09 | Slides - Código |
+| Instancia   | Tópico              | Fecha        | Recursos |
+| :-:         | :-:                 | :-:          | :-:      |
+| Cátedra     | Modelos predictivos | Lunes 11/09  | [Materia](Material%20de%20clases/Capítulo%203) - [Video](https://youtu.be/zIUImWJJ4zk) - [C3E1](Material%20de%20clases/Capítulo%203/Ejercicios/C3E1.pdf) - [Ticket C3E1](https://forms.gle/hwrAwnaNHpgoYNjZA)
+| Ayudantía   | Resolución C3E1     | Jueves 14/09 | [Slides](Ayudantías/Ayudantía%204/Ayudantía%204.pdf) - [Código](Ayudantías/Ayudantía%204/solucion_C3E1_V2.ipynb) |
+| No cátedra  | Modelos predictivos | -            | [C3E2](Material%20de%20clases/Capítulo%203/Ejercicios/C3E2.pdf) - [Ticket C3E2](https://forms.gle/7pTHZ9LuWyD36wt49)
+| Ayudantía   | Resolución C3E2     | Jueves 21/09 | [Código](Ayudantías/Ayudantía%205/solucion_C3E2.ipynb) |
+| Actividad 3 | Modelos predictivos | Lunes 25/09  | Enunciado |
 
 
 </details>
