@@ -54,7 +54,7 @@
 | Ayudantía   | Resolución C3E1     | Jueves 14/09 | [Slides](Ayudantías/Ayudantía%204/Ayudantía%204.pdf) - [Código](Ayudantías/Ayudantía%204/solucion_C3E1_V2.ipynb) |
 | No cátedra  | Modelos predictivos | -            | [C3E2](Material%20de%20clases/Capítulo%203/Ejercicios/C3E2.pdf) - [Ticket C3E2](https://forms.gle/7pTHZ9LuWyD36wt49)
 | Ayudantía   | Resolución C3E2     | Jueves 21/09 | [Código](Ayudantías/Ayudantía%205/solucion_C3E2.ipynb) |
-| Actividad 3 | Modelos predictivos | Lunes 25/09  | Enunciado |
+| Actividad 3 | Modelos predictivos | Lunes 25/09  | [Enunciado](Actividades/A3/A3.pdf)|
 
 
 </details>
