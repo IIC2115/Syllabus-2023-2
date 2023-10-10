@@ -45,7 +45,7 @@
 | Ayudantía   | Resolución A2                     | -            | [Video](https://youtu.be/DhNX1YMRLUY) - [Código](Ayudantías/Ayudantía%203/solución_A2.ipynb) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3</summary>
    
 | Instancia   | Tópico              | Fecha        | Recursos |
@@ -56,15 +56,17 @@
 | Ayudantía   | Resolución C3E2     | Jueves 21/09 | [Código](Ayudantías/Ayudantía%205/solucion_C3E2.ipynb) |
 | Actividad 3 | Modelos predictivos | Lunes 25/09  | [Enunciado](Actividades/A3/A3.pdf)|
 
+</details>
 
+<details open>
+<summary>Capítulo 4</summary>
+
+| Instancia   | Tópico                          | Fecha        | Recursos |
+| :-:         | :-:                             | :-:          | :-:      |
+| Cátedra     | Análisis de datos geoespaciales | Lunes 16/10  | [Materia](Material%20de%20clases/Capítulo%204) - C4E1 - Ticket C4E1 |
+| Ayudantía   | Resolución C4E1                 | Jueves 19/10 | Slides - Código | 
+   
 </details>
-<!--
-| Ayudantía parte a | Datos geoespaciales y SIG | Jueves 12/05 | Slides - [Código](Ayudantías/C3a/Solución%20C3a.ipynb)| 
-| Cátedra parte b   | Use de redes/grafos       | Lunes 16/05  | [Notebooks](Material%20de%20clases/Capítulo%203/Parte%20b/Notebooks/01%20-%20Manejo%20de%20redes.ipynb) - [Slides](Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Manejo%20de%20redes.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos/ejemplos_C3b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%203/Parte%20b/Ejercicios/C3b.pdf) - [Ticket](https://forms.gle/NqwKEyEHjHhbt1wG9) |
-| Ayudantía parte b | Uso de redes/grafos       | Jueves 19/05 | [Slides](Ayudantías/C3b/Ayudantía%20C3b.pdf) - [Código](Ayudantías/C3b/Solución%20C3b.ipynb) | 
-| Laboratorio 3     |                           | Lunes 23/05 a jueves 02/06 | [Enunciado](Laboratorios/L3/L3.pdf) |
-</details>
--->
 
 <!--
 <details>
