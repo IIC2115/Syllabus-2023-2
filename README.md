@@ -63,7 +63,7 @@
 
 | Instancia   | Tópico                          | Fecha        | Recursos |
 | :-:         | :-:                             | :-:          | :-:      |
-| Cátedra     | Análisis de datos geoespaciales | Lunes 16/10  | [Materia](Material%20de%20clases/Capítulo%204) - C4E1 - Ticket C4E1 |
+| Cátedra     | Análisis de datos geoespaciales | Lunes 16/10  | [Materia](Material%20de%20clases/Capítulo%204) - C4E1 - [Ticket C4E1](https://forms.gle/gKi8U2hXrzHyWpUFA) |
 | Ayudantía   | Resolución C4E1                 | Jueves 19/10 | Slides - Código | 
    
 </details>
