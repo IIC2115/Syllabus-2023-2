@@ -58,13 +58,26 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4</summary>
 
 | Instancia   | Tópico                          | Fecha        | Recursos |
 | :-:         | :-:                             | :-:          | :-:      |
 | Cátedra     | Análisis de datos geoespaciales | Lunes 16/10  | [Materia](Material%20de%20clases/Capítulo%204) - [C4E1](Material%20de%20clases/Capítulo%204/Ejercicios/C4E1.pdf) - [Ticket C4E1](https://forms.gle/gKi8U2hXrzHyWpUFA) |
 | Ayudantía   | Resolución C4E1                 | Jueves 19/10 | Slides - Código | 
+| Actividad 4 | Análisis de datos geoespaciales | Lunes 23/10  | [Enunciado](Actividades/A4/A4.pdf)|
+| Ayudantía   | Resolución A4                   | Jueves 26/10 | Código |
+   
+</details>
+
+<details open>
+<summary>Capítulo 5</summary>
+
+| Instancia   | Tópico          | Fecha        | Recursos |
+| :-:         | :-:             | :-:          | :-:      |
+| Cátedra     | Manejo de redes | Lunes 30/10  | [Materia](Material%20de%20clases/Capítulo%205) - C5E1 - [Ticket C5E1](https://forms.gle/2F5XgmAGR5CCwFAy8) |
+| Ayudantía   | Resolución C5E1 | Jueves 02/11 | Código | 
+
    
 </details>
 
@@ -84,9 +97,10 @@
 
 ## Tareas
  
-| Tarea   |	Tópicos                                 | Fecha Entrega | Recursos |
-| :-:     | :-:                                     | :-:           | :-:      |
-| Tarea 1 | Análisis de datos y modelos predictivos | Domingo 15/08 | [Enunciado](Tareas/T1/T1.pdf)|
+| Tarea   |	Tópicos                                           | Fecha Entrega | Recursos |
+| :-:     | :-:                                               | :-:           | :-:      |
+| Tarea 1 | Análisis de datos y modelos predictivos           | Domingo 15/10 | [Enunciado](Tareas/T1/T1.pdf)|
+| Tarea 2 | Análisis de datos geoespaciales y manejo de redes | Domingo 19/11 | [Enunciado](Tareas/T2/T2.pdf)|
 
 ## Notas
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
