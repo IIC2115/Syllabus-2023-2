@@ -77,6 +77,7 @@
 | :-:         | :-:             | :-:          | :-:      |
 | Cátedra     | Manejo de redes | Lunes 30/10  | [Materia](Material%20de%20clases/Capítulo%205) - [C5E1](Material%20de%20clases/Capítulo%205/Ejercicios/C5E1.pdf) - [Ticket C5E1](https://forms.gle/2F5XgmAGR5CCwFAy8) |
 | Ayudantía   | Resolución C5E1 | Jueves 02/11 | Código | 
+| Actividad 5 | Manejo de redes | Lunes 06/11  | Enunciado |
 
    
 </details>
