@@ -70,7 +70,7 @@
    
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 5</summary>
 
 | Instancia   | Tópico          | Fecha        | Recursos |
@@ -78,7 +78,17 @@
 | Cátedra     | Manejo de redes | Lunes 30/10  | [Materia](Material%20de%20clases/Capítulo%205) - [C5E1](Material%20de%20clases/Capítulo%205/Ejercicios/C5E1.pdf) - [Ticket C5E1](https://forms.gle/2F5XgmAGR5CCwFAy8) |
 | Ayudantía   | Resolución C5E1 | Jueves 02/11 | Código | 
 | Actividad 5 | Manejo de redes | Lunes 06/11  | [Enunciado](Actividades/A5/A5.pdf) |
+| Ayudantía   | Resolución A5   | Jueves 09/11 | Código | 
 
+   
+</details>
+
+<details open>
+<summary>Capítulo 6</summary>
+
+| Instancia   | Tópico                               | Fecha        | Recursos |
+| :-:         | :-:                                  | :-:          | :-:      |
+| Cátedra     | Manejo de grandes volúmenes de datos | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - C6E1 - Ticket C6E1 |
    
 </details>
 
