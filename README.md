@@ -88,7 +88,7 @@
 
 | Instancia   | Tópico                               | Fecha        | Recursos |
 | :-:         | :-:                                  | :-:          | :-:      |
-| Cátedra     | Manejo de grandes volúmenes de datos | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E1](Material%20de%20clases/Capítulo%206/Ejercicios/C6E1.pdf) - Ticket C6E1 |
+| Cátedra     | Manejo de grandes volúmenes de datos | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E1](Material%20de%20clases/Capítulo%206/Ejercicios/C6E1.pdf) - [Ticket C6E1](https://forms.gle/nzcPsQFVHSB3uaSU9) |
    
 </details>
 
