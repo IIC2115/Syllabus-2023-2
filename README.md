@@ -86,32 +86,22 @@
 <details open>
 <summary>Capítulo 6</summary>
 
-| Instancia   | Tópico                               | Fecha        | Recursos |
-| :-:         | :-:                                  | :-:          | :-:      |
-| Cátedra     | Manejo de grandes volúmenes de datos | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E1](Material%20de%20clases/Capítulo%206/Ejercicios/C6E1.pdf) - [Ticket C6E1](https://forms.gle/nzcPsQFVHSB3uaSU9) |
+| Instancia   | Tópico                      | Fecha        | Recursos |
+| :-:         | :-:                         | :-:          | :-:      |
+| Cátedra     | Bases de datos relacionales | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E1](Material%20de%20clases/Capítulo%206/Ejercicios/C6E1.pdf) - [Ticket C6E1](https://forms.gle/nzcPsQFVHSB3uaSU9) |
+| Ayudantía   | Resolución C6E1             | Jueves 16/11 | Código | 
+| Cátedra     | Consultas en SQL            | Lunes 20/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E2](Material%20de%20clases/Capítulo%206/Ejercicios/C6E2.pdf) - [Ticket C6E2](https://forms.gle/UgAPxZMMMHee6eHP7) |
    
 </details>
 
-<!--
-<details>
-<summary>Capítulo 4</summary>
-   
-| Instancia         | Tópico                    | Fecha        | Recursos |
-| :-:               | :-:                       | :-:          | :-:      |
-| Cátedra parte a   | Bases de datos relacionales y Web scraping | Lunes 06/06  | [Notebooks](../../tree/master/Material%20de%20clases/Capítulo%204/Parte%20a/Notebooks) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20a/Ejercicios/C4a.pdf) - [Ticket](https://forms.gle/C7Pag3BwKDFiSgrA9) |
-| Ayudantía parte a | Bases de datos relacionales | Jueves 09/06 | [Slides](Ayudantías/C4a/Ayudantia%20C4a.pdf) - [Código](Ayudantías/C4a/Solución%20C4a.ipynb) | 
-| Cátedra parte b   | Consultas en SQL          | Lunes 13/06  |  [Notebooks](Material%20de%20clases/Capítulo%204/Parte%20b/Notebooks/04%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) - [Slides](Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Ejemplos](Material%20de%20clases/Capítulo%204/Parte%20b/Ejemplos/ejemplos_C4b.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%204/Parte%20b/Ejercicios/C4b.pdf) - [Ticket](https://forms.gle/y7WKb94WZ8UkA9oN6) |
-| Ayudantía parte b | Consultas en SQL       | Jueves 16/06 | [Slides](Ayudantías/C4b/Ayudantia%20C4b.pdf) - [Código](Ayudantías/C4b/Solución%20C4b.ipynb) | 
-| Laboratorio 4     |                        | Lunes 20/06 a domingo 03/07 | [Enunciado](Laboratorios/L4/L4.pdf) |
-</details>
--->
 
 ## Tareas
  
-| Tarea   |	Tópicos                                           | Fecha Entrega | Recursos |
-| :-:     | :-:                                               | :-:           | :-:      |
-| Tarea 1 | Análisis de datos y modelos predictivos           | Domingo 15/10 | [Enunciado](Tareas/T1/T1.pdf)|
-| Tarea 2 | Análisis de datos geoespaciales y manejo de redes | Domingo 19/11 | [Enunciado](Tareas/T2/T2.pdf)|
+| Tarea   |	Tópicos                                           | Fecha Entrega   | Recursos |
+| :-:     | :-:                                               | :-:             | :-:      |
+| Tarea 1 | Análisis de datos y modelos predictivos           | Domingo 15/10   | [Enunciado](Tareas/T1/T1.pdf)|
+| Tarea 2 | Análisis de datos geoespaciales y manejo de redes | Miércoles 22/11 | [Enunciado](Tareas/T2/T2.pdf)|
+| Tarea 3 | Manejo de grandes volumenes de datos              | Domingo 10/12   | Enunciado|
 
 ## Notas
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
