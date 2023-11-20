@@ -101,7 +101,7 @@
 | :-:     | :-:                                               | :-:             | :-:      |
 | Tarea 1 | Análisis de datos y modelos predictivos           | Domingo 15/10   | [Enunciado](Tareas/T1/T1.pdf)|
 | Tarea 2 | Análisis de datos geoespaciales y manejo de redes | Miércoles 22/11 | [Enunciado](Tareas/T2/T2.pdf)|
-| Tarea 3 | Manejo de grandes volumenes de datos              | Domingo 10/12   | Enunciado|
+| Tarea 3 | Manejo de grandes volúmenes de datos              | Domingo 10/12   | Enunciado|
 
 ## Notas
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
