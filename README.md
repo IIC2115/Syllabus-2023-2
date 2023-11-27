@@ -91,6 +91,8 @@
 | Cátedra     | Bases de datos relacionales | Lunes 13/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E1](Material%20de%20clases/Capítulo%206/Ejercicios/C6E1.pdf) - [Ticket C6E1](https://forms.gle/nzcPsQFVHSB3uaSU9) |
 | Ayudantía   | Resolución C6E1             | Jueves 16/11 | Código | 
 | Cátedra     | Consultas en SQL            | Lunes 20/11  | [Materia](Material%20de%20clases/Capítulo%206) - [C6E2](Material%20de%20clases/Capítulo%206/Ejercicios/C6E2.pdf) - [Ticket C6E2](https://forms.gle/UgAPxZMMMHee6eHP7) |
+| Ayudantía   | Resolución C6E2             | Jueves 23/11 | Código | 
+| Actividad 6 | Manejo de grandes volúmenes de datos | Lunes 27/11  | [Enunciado](Actividades/A6/A6.pdf) |
    
 </details>
 
